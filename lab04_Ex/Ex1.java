@@ -1,4 +1,4 @@
-package lab04;
+package lab04.lab04_ex;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
